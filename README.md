@@ -1,1 +1,1 @@
-# bolt-generated-project
+# aurora-mvp
